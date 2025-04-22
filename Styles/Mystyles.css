@@ -1,0 +1,55 @@
+.mycommon{
+    background-color: white(247, 244, 244);
+    border: 2px solid white (187, 183, 183) ;
+    position: absolute;
+    font: black,; 
+    font-family: Georgia, 'Times New Roman', Times, serif;
+} 
+.myheader{top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 150px;
+    z-index: 2;
+    border-bottom: solid 1px white;
+   }
+.mysubheader{
+        float: right;
+        position: Absolute;
+    }
+.myleftmenu{
+        top: 157px;
+        left: 5px;
+        width: 100px;
+        bottom: 39px;
+        z-index: 1; 
+        padding-top: 40px;
+        border-right: solid 1px white;
+       }
+.mymainbody{
+    top: 200px;
+    left: 150px;
+    right: 114px;
+    bottom: 39px;
+    padding-right: 5px;
+    }
+body{
+    background-image:url(https://img.freepik.com/free-vector/watercolor-amber-background_23-2150241002.jpg?semt=ais_hybrid&w=740)}
+.myfooter{
+    bottom: 5px;
+    left: 5px;
+    right: 5px;
+    height: 16px;
+    font-size: 15px;
+    color: black;
+    text-align: center;
+    padding-top: 15px;
+    position:static;}
+    .bold{
+        font-weight: bold;}
+    .underline{
+        text-decoration: underline;
+    }
+    .Tabeau{
+        width:150px;
+        height:84px ;
+    }
